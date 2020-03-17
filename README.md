@@ -1,3 +1,1 @@
-# normatividad-grds.github.io
-
-# Webpage builder
+# normatividad-grds.github.io - Webpage builder
