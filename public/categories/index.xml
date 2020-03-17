@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kube for Hugo</title>
-    <link>/categories/</link>
+    <link>https://normatividad-grds.github.io/categories/</link>
     <description>Recent content in Categories on Kube for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Apr 2017 22:01:15 +0100</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://normatividad-grds.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>design</title>
-      <link>/categories/design/</link>
+      <link>https://normatividad-grds.github.io/categories/design/</link>
       <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
       
-      <guid>/categories/design/</guid>
+      <guid>https://normatividad-grds.github.io/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>general</title>
-      <link>/categories/general/</link>
+      <link>https://normatividad-grds.github.io/categories/general/</link>
       <pubDate>Sun, 02 Apr 2017 21:56:55 +0100</pubDate>
       
-      <guid>/categories/general/</guid>
+      <guid>https://normatividad-grds.github.io/categories/general/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>https://normatividad-grds.github.io/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>https://normatividad-grds.github.io/categories/r/</guid>
       <description></description>
     </item>
     
